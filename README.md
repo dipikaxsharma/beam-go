@@ -1,4 +1,4 @@
-#My commands:
+# My commands:
 
 1. Went to your Documents/44-517 folder. Created a new project folder under 44-517. 
 2. Made new directory beam-go (no spaces - for the easiest life, never leave spaces in folder/file names!)
