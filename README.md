@@ -1,4 +1,4 @@
-# My commands:
+# My process:
 
 1. Went to your Documents/44-517 folder. Created a new project folder under 44-517. 
 2. Made new directory beam-go (no spaces - for the easiest life, never leave spaces in folder/file names!)
@@ -8,7 +8,7 @@
 6. Create the sample hello.go file in your new modules. Customize it. We'll be able to import your hello app from GitHub.
 7. When done, use go run . to execute the default file in the folder. 
 
-# Codes:
+# My Commands:
 1. $ go version
 2. $ go get -u github.com/apache/beam/sdks/v2/go/pkg/beam
 3. $ go install github.com/apache/beam/sdks/v2/go/examples/wordcount
