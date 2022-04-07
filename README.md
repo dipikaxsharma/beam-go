@@ -7,3 +7,10 @@
 5. Use code . to open VS Code here.
 6. Create the sample hello.go file in your new modules. Customize it. We'll be able to import your hello app from GitHub.
 7. When done, use go run . to execute the default file in the folder. 
+
+# Codes:
+1. $ go version
+2. $ go get -u github.com/apache/beam/sdks/v2/go/pkg/beam
+3. $ go install github.com/apache/beam/sdks/v2/go/examples/wordcount
+$ wordcount --input sample.txt --output counts
+
